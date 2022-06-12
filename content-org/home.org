@@ -1,0 +1,5 @@
+#+hugo_base_dir: ../
+#+title: Hello World
+#+date: 11/6/2022
+
+hello world

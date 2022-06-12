@@ -1,0 +1,15 @@
+baseURL = 'https://kstatz12.github.io'
+languageCode = 'en-us'
+title = 'Karl Statz'
+theme= "hyde"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+    description = "Software Therapist"
+
+[Menus]
+    main = [
+        { Name = "Github", URL = 'https://github.com/kstatz12' }
+    ]
